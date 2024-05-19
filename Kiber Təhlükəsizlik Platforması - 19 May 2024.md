@@ -19,13 +19,13 @@ This README provides definitions for key terms used in the field of cyber threat
 ## APT - Advanced Persistent Threat
 
 - **English**: An advanced persistent threat is a stealthy threat actor, typically a nation state or state-sponsored group, which gains unauthorized access to a computer network and remains undetected for an extended period.
-- **Türkçe**: İleri Düzey Sürekli Tehdit, genellikle bir devlet veya devlet destekli grup olan ve bilgisayar ağlarına yetkisiz erişim sağlayıp uzun süre tespit edilmeden kalabilen gizli bir tehdit aktörüdür.
+- **Türkçe**: İleri Düzey Sürekli(Kalıcı) Tehdit, genellikle bir devlet veya devlet destekli grup olan ve bilgisayar ağlarına yetkisiz erişim sağlayıp uzun süre tespit edilmeden kalabilen gizli bir tehdit aktörüdür.
 - **Azerbaycan Türkçesi**: İrəli Davamlı Təhdid, adətən bir dövlət və ya dövlət tərəfindən dəstəklənən qrup olan, kompüter şəbəkəsinə qanunsuz giriş əldə edən və uzun müddət aşkar edilmədən qalan gizli təhdid aktorudur.
 
 ## TTP - Tactics, Techniques, and Procedures
 
 - **English**: Tactics, techniques, and procedures refer to the behavior or modus operandi of cyber attackers, including their strategies, tools, and methods of exploitation.
-- **Türkçe**: Taktikler, Teknikler ve Prosedürler, siber saldırganların davranışlarını veya modus operandi'lerini, stratejilerini, araçlarını ve sömürü yöntemlerini ifade eder.
+- **Türkçe**: Taktikler, Teknikler ve Prosedürler, siber saldırganların davranışlarını veya işleyiş şekillerini, stratejilerini, araçlarını ve sömürü yöntemlerini ifade eder.
 - **Azerbaycan Türkçesi**: Taktikalar, Texnikalar və Prosedurlar, siber hücumçuların davranışlarını və ya iş metotlarını, o cümlədən onların strategiyalarını, vasitələrini və istismar metodlarını ifadə edir.
 
 ## Threat Intelligence
